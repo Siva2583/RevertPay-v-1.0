@@ -287,6 +287,7 @@ every request:
               balance never stored — always derived: 🟢
               /api/me & /api/accounts/{no}/balance:
                 credits − debits over all LedgerEntry rows of the account
+```
 
 ---
 
